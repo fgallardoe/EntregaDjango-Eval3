@@ -1,8 +1,8 @@
-# Entrega2
-Entrega Evaluación 2 - Felipe Gallardo - David Regular
+# Entrega3
+Entrega Evaluación 3 - Felipe Gallardo - David Regular
 
 información de acceso:
-
+http://127.0.0.1:8000/
 http://127.0.0.1:8000/admin/
 
 
@@ -17,6 +17,8 @@ misperris
 user (solo lectura mascotas)
 jperez
 misperris
+
+
 
 
 
